@@ -1,0 +1,533 @@
+# 本 viminfo 檔案是由 Vim 7.3 所產生.
+# 如果想要自行修改請特別小心！
+
+# 'encoding' 在此檔建立時的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Last Search Pattern:
+~Msle0~/\<cate\>
+
+# 命令列 歷史記錄 (新到舊):
+:wq
+:s
+:q
+:!q
+:.!
+:WQ
+:w
+
+# 搜尋字串 歷史記錄 (新到舊):
+? \<cate\>
+? {
+
+# 運算式 歷史記錄 (新到舊):
+
+# 輸入行  歷史記錄 (新到舊):
+
+# 輸入行  歷史記錄 (新到舊):
+
+# 暫存器:
+"1	LINE	0
+		g++ -o main.o bmi.o
+	main.o: main.cpp
+"2	LINE	0
+	160	85
+"3	LINE	0
+	162	43
+"4	LINE	0
+	167	80
+"5	LINE	0
+	192	58
+"6	LINE	0
+	0	0170	68
+"7	LINE	0
+	160	85
+"8	LINE	0
+	162	43
+"9	LINE	0
+	167	80
+""-	CHAR	0
+	f
+
+# 檔案標記:
+'0  1  0  ~/lab2/file_out.txt
+'1  39  1  ~/lab2/bmi.cpp
+'2  7  8  ~/project1/sudoku.h
+'3  4  19  ~/project1/sudoku.cpp
+'4  1  0  ~/.git/COMMIT_EDITMSG
+'5  1  0  ~/lab2/.git/COMMIT_EDITMSG
+'6  6  53  ~/lab2/README.txt
+'7  29  27  ~/lab2/main.cpp
+'8  38  0  ~/lab2/main.cpp
+'9  11  3  ~/lab2/bmi.cpp
+
+# Jumplist (由新到舊):
+-'  1  0  ~/lab2/file_out.txt
+-'  39  1  ~/lab2/bmi.cpp
+-'  1  0  ~/lab2/bmi.cpp
+-'  7  8  ~/project1/sudoku.h
+-'  1  0  ~/project1/sudoku.h
+-'  4  19  ~/project1/sudoku.cpp
+-'  1  0  ~/project1/sudoku.cpp
+-'  1  0  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/lab2/.git/COMMIT_EDITMSG
+-'  6  53  ~/lab2/README.txt
+-'  1  0  ~/lab2/README.txt
+-'  29  27  ~/lab2/main.cpp
+-'  1  0  ~/lab2/main.cpp
+-'  38  0  ~/lab2/main.cpp
+-'  32  11  ~/lab2/main.cpp
+-'  11  3  ~/lab2/bmi.cpp
+-'  38  20  ~/lab2/bmi.cpp
+-'  26  0  ~/lab2/bmi.cpp
+-'  41  0  ~/lab2/main.cpp
+-'  12  7  ~/lab2/bmi.h
+-'  1  0  ~/lab2/bmi.h
+-'  15  5  ~/lab2/bmi.cpp
+-'  12  6  ~/lab2/main.cpp
+-'  21  0  ~/lab2/bmi.cpp
+-'  9  0  ~/lab2/bmi.h
+-'  37  47  ~/lab2/main.cpp
+-'  48  12  ~/lab2/bmi.cpp
+-'  3  8  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  25  2  ~/lab2/bmi.cpp
+-'  5  0  ~/lab2/.vimrc
+-'  1  0  ~/lab2/.vimrc
+-'  27  0  ~/lab2/bmi.cpp
+-'  14  26  ~/lab2/bmi.cpp
+-'  14  0  ~/lab2/main.cpp
+-'  35  8  ~/lab2/main.cpp
+-'  12  50  ~/lab2/bmi.cpp
+-'  7  13  ~/lab2/bmi.h
+-'  4  0  ~/lab2/bmi.cpp
+-'  25  13  ~/lab2/main.cpp
+-'  9  0  ~/lab2/bmi.cpp
+-'  2  0  ~/lab2/bmi.cpp
+-'  4  1  ~/lab2/file_in.txt
+-'  1  0  ~/lab2/file_in.txt
+-'  8  29  ~/lab2/bmi.h
+-'  10  11  ~/lab2/main.cpp
+-'  1  0  ~/lab2/bmi,cpp
+-'  9  9  ~/lab2/main.cpp
+-'  20  26  ~/lab2/main.cpp
+-'  6  27  ~/lab2/main.cpp
+-'  5  15  ~/lab2/main.cpp
+-'  4  15  ~/lab2/makefile
+-'  1  0  ~/lab2/makefile
+-'  1  0  ~/lab2/make
+-'  19  9  ~/lab2/main.cpp
+-'  13  29  ~/lab2/main.cpp
+-'  7  0  ~/lab2/main.cpp
+-'  8  6  ~/lab2/makefile
+-'  6  11  ~/lab2/makefile
+-'  6  2  ~/lab2/file_in.txt
+-'  215  1  ~/lab2/file_in.txt
+-'  5856  2  ~/lab2/file_in.txt
+-'  1  0  ~/lab2/bmmi.h
+-'  1  0  ~/lab2/bmp.cpp
+-'  34  5  ~/lab2/main.cpp
+-'  6  0  ~/lab2/bmi.h
+-'  11  22  ~/lab2/bmi.h
+-'  15  7  ~/lab1/lab1.cpp
+-'  1  0  ~/lab1/lab1.cpp
+-'  11  0  ~/lab1/lab1.cpp
+-'  1  0  ~/lab1/lab1.script
+-'  1  14  ~/lab1/.git/COMMIT_EDITMSG
+-'  37  1  ~/lab1/lab1.script
+-'  1  23  ~/lab1/README
+-'  16  11  ~/lab1/lab1.cpp
+-'  14  6  ~/lab1/lab1.cpp
+-'  18  9  ~/lab1/lab1.cpp
+-'  4  0  ~/lab1/lab1.h
+-'  1  0  ~/lab1/lab1.h
+-'  5  0  ~/lab1/lab1.cpp
+-'  9  0  ~/lab1/.git/COMMIT_EDITMSG
+-'  4  0  ~/lab1/lab1.h
+-'  1  0  ~/lab1/lab1.h
+-'  4  0  ~/lab1/lab1.h
+-'  1  0  ~/lab1/lab1.h
+-'  4  0  ~/lab1/lab1.h
+-'  1  0  ~/lab1/lab1.h
+-'  4  0  ~/lab1/lab1.h
+-'  1  0  ~/lab1/lab1.h
+-'  4  0  ~/lab1/lab1.h
+-'  1  0  ~/lab1/lab1.h
+-'  4  0  ~/lab1/lab1.h
+-'  1  0  ~/lab1/lab1.h
+-'  4  0  ~/lab1/lab1.h
+-'  1  0  ~/lab1/lab1.h
+-'  4  0  ~/lab1/lab1.h
+-'  1  0  ~/lab1/lab1.h
+
+# 檔案內 Mark 記錄 (由新到舊):
+
+> ~/lab2/file_out.txt
+	"	1	0
+
+> ~/lab2/bmi.cpp
+	"	39	1
+	^	39	2
+	.	32	26
+	+	12	50
+	+	12	119
+	+	12	160
+	+	12	132
+	+	12	172
+	+	12	159
+	+	12	131
+	+	12	118
+	+	12	57
+	+	12	106
+	+	12	101
+	+	12	106
+	+	12	75
+	+	12	216
+	+	12	229
+	+	2	0
+	+	14	2
+	+	14	5
+	+	12	49
+	+	11	5
+	+	14	27
+	+	14	29
+	+	14	31
+	+	14	31
+	+	14	31
+	+	14	20
+	+	14	19
+	+	12	50
+	+	11	30
+	+	12	93
+	+	11	3
+	+	14	3
+	+	14	20
+	+	12	88
+	+	11	19
+	+	11	32
+	+	12	49
+	+	12	48
+	+	12	0
+	+	14	2
+	+	14	30
+	+	17	2
+	+	19	0
+	+	18	7
+	+	16	0
+	+	16	0
+	+	18	37
+	+	18	49
+	+	14	1
+	+	15	5
+	+	5	14
+	+	18	50
+	+	20	30
+	+	21	2
+	+	23	0
+	+	22	31
+	+	23	0
+	+	19	0
+	+	23	2
+	+	24	31
+	+	25	2
+	+	27	0
+	+	25	2
+	+	10	0
+	+	26	16
+	+	28	31
+	+	29	2
+	+	30	1
+	+	24	13
+	+	20	13
+	+	30	10
+	+	26	19
+	+	30	18
+	+	31	2
+	+	32	25
+	+	33	2
+	+	34	41
+	+	35	2
+	+	36	29
+	+	37	2
+	+	39	1
+	+	38	25
+	+	34	32
+	+	38	42
+	+	38	41
+	+	40	4
+	+	34	19
+	+	38	33
+	+	40	29
+	+	41	2
+	+	42	38
+	+	45	2
+	+	46	47
+	+	48	12
+	+	15	5
+	+	11	5
+	+	34	20
+	+	8	4
+	+	13	12
+	+	32	26
+
+> ~/project1/sudoku.h
+	"	7	8
+	^	7	9
+	.	7	8
+	+	1	18
+	+	2	17
+	+	3	16
+	+	8	0
+	+	5	13
+	+	7	8
+
+> ~/project1/sudoku.cpp
+	"	4	19
+	^	4	20
+	.	4	19
+	+	1	18
+	+	2	18
+	+	3	17
+	+	4	19
+
+> ~/.git/COMMIT_EDITMSG
+	"	1	0
+
+> ~/lab2/.git/COMMIT_EDITMSG
+	"	1	0
+
+> ~/lab2/README.txt
+	"	6	53
+	^	6	54
+	.	7	0
+	+	1	66
+	+	3	32
+	+	4	66
+	+	5	43
+	+	6	54
+	+	7	0
+
+> ~/lab2/main.cpp
+	"	29	27
+	^	29	28
+	.	29	27
+	+	2	16
+	+	5	1
+	+	40	1
+	+	39	0
+	+	7	26
+	+	34	1
+	+	26	0
+	+	38	0
+	+	34	22
+	+	35	5
+	+	25	7
+	+	25	0
+	+	34	15
+	+	35	15
+	+	35	20
+	+	13	8
+	+	11	15
+	+	13	25
+	+	25	14
+	+	35	15
+	+	38	0
+	+	39	9
+	+	13	30
+	+	15	13
+	+	17	2
+	+	20	2
+	+	19	9
+	+	3	17
+	+	4	14
+	+	7	27
+	+	25	24
+	+	8	0
+	+	11	5
+	+	34	2
+	+	35	2
+	+	13	32
+	+	25	7
+	+	15	5
+	+	6	13
+	+	25	7
+	+	35	35
+	+	35	38
+	+	35	48
+	+	35	46
+	+	20	1
+	+	19	20
+	+	25	15
+	+	38	0
+	+	25	17
+	+	20	1
+	+	20	2
+	+	25	13
+	+	34	14
+	+	10	11
+	+	20	1
+	+	13	11
+	+	14	30
+	+	25	13
+	+	21	4
+	+	15	7
+	+	14	3
+	+	13	16
+	+	25	9
+	+	21	9
+	+	25	0
+	+	22	2
+	+	24	0
+	+	23	22
+	+	35	11
+	+	10	14
+	+	35	7
+	+	18	0
+	+	15	35
+	+	36	0
+	+	12	12
+	+	36	21
+	+	37	47
+	+	12	7
+	+	38	0
+	+	27	18
+	+	28	3
+	+	29	28
+	+	32	11
+	+	29	27
+
+> ~/lab2/bmi.h
+	"	12	7
+	^	12	8
+	.	12	7
+	+	1	18
+	+	6	8
+	+	8	18
+	+	8	32
+	+	11	22
+	+	8	29
+	+	8	36
+	+	8	36
+	+	11	25
+	+	8	2
+	+	7	2
+	+	9	11
+	+	8	29
+	+	7	18
+	+	1	14
+	+	7	20
+	+	1	12
+	+	7	7
+	+	9	7
+	+	2	14
+	+	12	13
+	+	9	6
+	+	12	6
+	+	9	7
+	+	12	7
+
+> ~/.vimrc
+	"	3	8
+	^	3	9
+	.	3	8
+	+	3	8
+
+> ~/lab2/.vimrc
+	"	5	0
+	^	5	0
+	.	4	15
+	+	4	15
+
+> ~/lab2/file_in.txt
+	"	4	1
+	^	6	3
+	.	6	3
+	+	5856	2
+	+	7	3483
+	+	7	2580
+	+	7	0
+	+	7	0
+	+	7	0
+	+	6	1836
+	+	6	15
+	+	6	3
+
+> ~/lab2/bmi,cpp
+	"	1	0
+
+> ~/lab2/makefile
+	"	2	20
+	^	2	21
+	.	2	20
+	+	1	27
+	+	2	15
+	+	2	19
+	+	3	6
+	+	6	15
+	+	8	6
+	+	2	0
+	+	2	6
+	+	6	6
+	+	3	16
+	+	4	15
+	+	1	24
+	+	2	20
+	a	1	0
+
+> ~/lab2/make
+	"	1	0
+
+> ~/lab2/bmmi.h
+	"	1	0
+
+> ~/lab2/bmp.cpp
+	"	1	0
+
+> ~/lab1/lab1.cpp
+	"	15	7
+	^	16	12
+	.	16	12
+	+	4	1
+	+	5	0
+	+	1	15
+	+	7	0
+	+	6	5
+	+	7	25
+	+	17	1
+	+	10	15
+	+	13	2
+	+	12	13
+	+	15	9
+	+	17	2
+	+	19	0
+	+	8	2
+	+	16	25
+	+	17	2
+	+	18	9
+	+	7	12
+	+	16	12
+
+> ~/lab1/lab1.script
+	"	1	0
+
+> ~/lab1/.git/COMMIT_EDITMSG
+	"	1	14
+	^	1	15
+	.	2	0
+	+	1	15
+	+	2	0
+
+> ~/lab1/README
+	"	1	23
+	^	1	24
+	.	1	23
+	+	1	23
+
+> ~/lab1/lab1.h
+	"	4	0
+	^	4	0
+	.	3	17
+	+	3	17

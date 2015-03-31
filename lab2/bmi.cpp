@@ -10,6 +10,7 @@ double BMI::getdata(double h, double w){
 };
 double BMI::setbmi(){
         bmi = weight/((height/100)*(height/100));
+		return bmi;
 };
 string BMI::compare(){
 	if(bmi<15)
@@ -28,7 +29,7 @@ string BMI::compare(){
 	{
 		cate = "Normal";
 	}
-	else if(bmi>=25.0 && 30)
+	else if(bmi>=25.0 && bmi<30)
 	{
 		cate = "Overweight";
 	}
